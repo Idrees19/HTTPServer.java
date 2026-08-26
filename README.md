@@ -25,7 +25,7 @@ cd <your-repo>
 Create a www directory (or update ROOT_DIRECTORY to point elsewhere) and add an index.html:
 
 mkdir www
-echo "<h1>Hello, world!</h1>" > www/index.html
+// echo "<h1>Hello, world!</h1>" > www/index.html
 
 **Usage**
 
